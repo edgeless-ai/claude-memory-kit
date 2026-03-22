@@ -170,6 +170,16 @@ or discover project-specific information that will be useful in future conversat
 
 See `template/CLAUDE-MEMORY-SNIPPET.md` for a ready-to-paste version.
 
+## Want More?
+
+**[Claude Memory Kit Pro](https://edgelessai.gumroad.com/l/claude-memory-kit)** ($29) includes:
+
+- 12 pre-built memory templates for engineers, data scientists, DevOps, and managers
+- 5 stack-specific memory libraries (React/Next.js, Python/FastAPI, Go, Rails, Rust)
+- Advanced patterns guide (multi-project memory, team memory, CI integration)
+- CLAUDE.md templates for solo projects and monorepos
+- Based on a production system managing 7 AI agents and 7,000+ documents
+
 ## License
 
 MIT

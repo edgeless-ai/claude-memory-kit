@@ -2,6 +2,8 @@
 name: Infrastructure References
 description: Where to find monitoring, docs, and tracking systems
 type: reference
+wing: infrastructure
+room: external-systems
 ---
 
 - **Bug tracking**: Linear project "PLATFORM" for production bugs, "ROADMAP" for features

@@ -2,6 +2,8 @@
 name: API Breaking Change Freeze
 description: No breaking API changes until mobile release branch cut on 2026-03-15
 type: project
+wing: backend
+room: api-freeze
 ---
 
 Breaking API changes are frozen until 2026-03-15 (mobile release branch cut).

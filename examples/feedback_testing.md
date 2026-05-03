@@ -1,7 +1,9 @@
 ---
 name: No mocking database in integration tests
-description: Integration tests must use real database, never mocks - learned from prod incident
+description: Integration tests must use real database, never mocks -- learned from prod incident
 type: feedback
+wing: backend
+room: testing
 ---
 
 Integration tests must hit a real database, not mocks.

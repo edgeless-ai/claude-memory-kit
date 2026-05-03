@@ -2,6 +2,8 @@
 name: Example Project Context
 description: Template for storing project decisions and constraints
 type: project
+wing: product
+room: example
 ---
 
 Replace this with project context that isn't derivable from the code.

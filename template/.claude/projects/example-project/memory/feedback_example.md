@@ -2,6 +2,8 @@
 name: Example Feedback
 description: Template for storing corrections and preferences
 type: feedback
+wing: user
+room: example
 ---
 
 Replace this with actual feedback you give Claude during sessions.

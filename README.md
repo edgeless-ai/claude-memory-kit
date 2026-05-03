@@ -1,3 +1,7 @@
+[![CI](https://github.com/edgeless-ai/claude-memory-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/edgeless-ai/claude-memory-kit/actions)
+[![PyPI](https://img.shields.io/pypi/v/claude-memory-kit)](https://pypi.org/project/claude-memory-kit/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 # Claude Memory Kit
 
 Persistent, file-based memory for [Claude Code](https://claude.ai/claude-code). Drop it into any project and Claude remembers who you are, what you've told it, and where things live -- across every conversation.

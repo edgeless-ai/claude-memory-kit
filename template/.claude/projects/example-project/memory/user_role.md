@@ -2,6 +2,8 @@
 name: User Role
 description: Replace with your role and expertise level
 type: user
+wing: user
+room: role
 ---
 
 Replace this with information about yourself that shapes how Claude should work with you.

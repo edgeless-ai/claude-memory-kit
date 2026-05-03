@@ -1,7 +1,9 @@
 ---
 name: User - Senior Backend Engineer
-description: 8 years Go experience, new to React frontend, prefers backend analogues
+description: 8 years Go experience, new to React frontend, prefers backend analogues for explanations
 type: user
+wing: user
+room: role
 ---
 
 Senior backend engineer with 8 years of Go experience. Deep knowledge of

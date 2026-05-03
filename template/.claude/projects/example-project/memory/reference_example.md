@@ -2,6 +2,8 @@
 name: Example Reference
 description: Template for pointing to external resources
 type: reference
+wing: tools
+room: example
 ---
 
 Replace this with pointers to external systems and their purpose.
